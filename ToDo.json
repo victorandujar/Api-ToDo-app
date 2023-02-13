@@ -1,0 +1,29 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "name": "Sacarme a pasear",
+      "isDone": false
+    },
+    {
+      "id": 2,
+      "name": "Descansar",
+      "isDone": false
+    },
+    {
+      "id": 3,
+      "name": "Hacer deporte (ha-ha)",
+      "isDone": false
+    },
+    {
+      "id": 4,
+      "name": "Menjar bé",
+      "isDone": false
+    },
+    {
+      "id": 5,
+      "name": "Tener vida social o algo que se le parezca",
+      "isDone": false
+    }
+  ]
+}
