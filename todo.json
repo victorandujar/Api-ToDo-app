@@ -2,27 +2,27 @@
   "tasks": [
     {
       "id": 1,
-      "name": "Sacarme a pasear",
+      "name": "Make laundry",
       "isDone": false
     },
     {
       "id": 2,
-      "name": "Descansar",
+      "name": "Lunch with B and P saturday",
       "isDone": false
     },
     {
       "id": 3,
-      "name": "Hacer deporte (ha-ha)",
+      "name": "Need some food bro. Come on...",
       "isDone": false
     },
     {
       "id": 4,
-      "name": "Menjar bé",
+      "name": "You need to clean the house. DO IT!",
       "isDone": false
     },
     {
       "id": 5,
-      "name": "Tener vida social o algo que se le parezca",
+      "name": "Take out the rubish. It stinks",
       "isDone": false
     }
   ]
